@@ -1,0 +1,5 @@
+selenium
+pandas
+pytest
+undetectable-chromedriver
+python-dotenv  # Add this line
